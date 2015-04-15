@@ -12,6 +12,13 @@ This page is simply so I don't have to update `CONTRIBUTING.md` on every project
 
 ### General
 
+#### Notes
+
+ * Comment your code. I want to support it in the future, I need comments
+ * Have informative git commit messages
+ * Follow the [styling](#styling) notes below
+
+#### Pull Requests
  * Fork the project
  * Clone down your fork (`git clone git://github.com/username/project`)
  * Create a feature branch (`git checkout -b my-new-feature`)
@@ -22,11 +29,11 @@ This page is simply so I don't have to update `CONTRIBUTING.md` on every project
 
 ### Styling
 
-Unless the code and/or project has specific requirements, follow these coding guidlines:
+Unless the code and/or project has specific requirements that contradict below, follow these coding guidlines:
 
  * No trailing whitespaces, blank lines should have no spaces
  * Include meaningful whitespace between lines of code - make sure its readable
- * Ensure there is a newline at the end of every file.
+ * Ensure there is a newline/`eol` character at the end of every file  
    You can achieve this in many editors by doing the below (shameless stolen from <https://robots.thoughtbot.com/no-newline-at-end-of-file>):
 
 > * For Vim users, you’re all set out of the box! Just don’t change your eol setting.
@@ -35,4 +42,6 @@ Unless the code and/or project has specific requirements, follow these coding gu
  * For Sublime users, set the `"ensure_newline_at_eof_on_save"` option to `true`.
 > * For RubyMine, set “Ensure line feed at file end on Save” under “Editor.”
 
-* Comment your code. I'm going to have to support it in the future, I need comments.
+### Questions?
+
+If you're confused on any of the above, shoot me an email or [file a issue on GitHub](https://github.com/Mooash/mooash.github.io).
