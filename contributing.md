@@ -34,7 +34,7 @@ Unless the code and/or project has specific requirements that contradict below, 
  * No trailing whitespaces, blank lines should have no spaces
  * Include meaningful whitespace between lines of code - make sure its readable
  * Ensure there is a newline/`eol` character at the end of every file  
-   You can achieve this in many editors by doing the below (shameless stolen from <https://robots.thoughtbot.com/no-newline-at-end-of-file>):
+   You can achieve this in many editors by doing the below (shamelessly stolen from <https://robots.thoughtbot.com/no-newline-at-end-of-file>):
 
 > * For Vim users, you’re all set out of the box! Just don’t change your eol setting.
  * For Emacs users, add `(setq require-final-newline t)` to your `.emacs` or `.emacs.d/init.el` file.
