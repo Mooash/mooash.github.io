@@ -15,8 +15,6 @@ theme:
      <p>I make various pieces of code and publish them on <a href="https://github.com/Mooash" title="Mooash (James)">GitHub</a>.</p>
 
      <p>Check out my blog <a href="https://www.mooash.me/" title="My blog">here</a>.</p>
-
-     <p>Love Ansible? Checkout my new website <a href="https://configdroid.com/" title="ConfigDroid" >ConfigDroid</a>.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -74,3 +72,4 @@ sass:
 gems:
   - jekyll-last-modified-at
   - github-pages
+  - jekyll-sitemap
