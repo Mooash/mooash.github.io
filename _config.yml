@@ -21,7 +21,7 @@ theme:
 
   # Icons
   rss: false
-  email_address: "contact@mooash.me" # Full email address, e.g. "sam@example.com"
+  email_address: "github@mooash.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
