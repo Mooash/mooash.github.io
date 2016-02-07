@@ -17,6 +17,7 @@ This page is simply so I don't have to update `CONTRIBUTING.md` on every project
  * Comment your code. I want to support it in the future, I need comments
  * Have informative git commit messages
  * Follow the [styling](#styling) notes below
+ * Don't bump the version, I'll do this in a separate commit when the PR is merged
 
 #### Pull Requests
  * Fork the project
