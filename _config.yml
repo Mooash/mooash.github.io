@@ -1,33 +1,33 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://mooash.github.io" # the base hostname & protocol for your site
+url: "https://jloh.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Mooash - GitHub
+  title: jloh - GitHub
   avatar:
   gravatar: 1a5e3debad5f1cc88b8d73cf3d484c15 # Email MD5 hash
-  description: "Mooash's GitHub notes" # used by search engines
+  description: "jloh's GitHub notes" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>I make various pieces of code and publish them on <a href="https://github.com/Mooash" title="Mooash (James)">GitHub</a>.</p>
+     <p>I make various pieces of code and publish them on <a href="https://github.com/jloh" title="jloh (James)">GitHub</a>.</p>
 
-     <p>Check out my blog <a href="https://www.mooash.me/" title="My blog">here</a>.</p>
+     <p>Check out my blog <a href="https://jloh.co/l/blog" title="My blog">here</a>.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: "github@mooash.com" # Full email address, e.g. "sam@example.com"
+  #email_address: "github@mooash.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "Mooash"
+  github: "jloh"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,14 +37,14 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "moo_ash"
-  wordpress: "https://www.mooash.me"
+  twitter: "itsjloh"
+  wordpress: "https://jloh.co/l/blog"
   youtube:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
 
   # Localization strings
   str_follow_on: "Follow on"
